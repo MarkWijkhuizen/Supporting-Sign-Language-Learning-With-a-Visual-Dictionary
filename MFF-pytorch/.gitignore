@@ -1,0 +1,19 @@
+# files types to exculde
+*.mp4
+*.h5
+
+jester/
+datasets/
+backup/
+.ipynb_checkpoints/
+#*.txt
+
+__pycache__
+*.pyc
+
+model/
+#*.pth.tar
+#*.pth
+
+log/
+*.csv

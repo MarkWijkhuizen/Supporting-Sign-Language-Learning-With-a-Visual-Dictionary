@@ -1,0 +1,9 @@
+MFF-pytorch/datasets
+
+*.pkl
+*.xz
+*.xlsx
+*.csv
+*.pth.tar
+*.avi
+*.out
